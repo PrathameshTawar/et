@@ -1,0 +1,18 @@
+[
+  "backend/tests/test_api.py::test_admin_pipeline_status",
+  "backend/tests/test_api.py::test_admin_stats_endpoint",
+  "backend/tests/test_api.py::test_debug_chat_endpoint",
+  "backend/tests/test_api.py::test_process_audio_endpoint",
+  "backend/tests/test_api.py::test_process_text_endpoint",
+  "backend/tests/test_api.py::test_process_text_validation_error",
+  "backend/tests/test_api.py::test_rate_limiting",
+  "backend/tests/test_api.py::test_root_endpoint",
+  "backend/tests/test_api.py::test_voice_health_endpoint",
+  "backend/tests/test_flow.py::test_full_orchestration_flow",
+  "backend/tests/test_flow.py::test_safety_blocking_flow",
+  "backend/tests/test_orchestrator.py::test_conversation_state_validation",
+  "backend/tests/test_orchestrator.py::test_intent_classification",
+  "backend/tests/test_orchestrator.py::test_orchestrator_initialization",
+  "backend/tests/test_orchestrator.py::test_voice_processing_success",
+  "backend/tests/test_orchestrator.py::test_voice_processing_with_text_input"
+]
